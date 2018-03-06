@@ -1,2 +1,2 @@
 # Selenium-with-python-examples
-In this repository start form basic
+In this repository start form basic of selenium
